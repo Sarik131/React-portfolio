@@ -3,4 +3,11 @@
     "[typescriptreact]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "always"
+    },
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 80,
+    "diffEditor.wordWrap": "inherit",
+    "editor.wordBreak": "normal",
 }
